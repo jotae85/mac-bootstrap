@@ -23,7 +23,6 @@ brew cleanup
 
 CASKS=(
     google-chrome
-    virtualbox
     sourcetree
     alfred
     appcleaner
