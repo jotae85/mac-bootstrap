@@ -16,6 +16,7 @@ PACKAGES=(
     loc
     tmux
     tree
+    python
 )
 
 brew install ${PACKAGES[@]}
